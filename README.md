@@ -1,12 +1,11 @@
 # Analysing_TV_network
 Welcome to the repository for Analysing TVNetwork! This repository contains the necessary resources to run a Jupyter Notebook that analyzes and processes to find out how some of the elements of the TV show interact with each other
-Table of Contents
+#Table of Contents
 Introduction
 Getting Started
 Usage
 Data Sets
 Notebook
-Contributing
 License
 Introduction
 In this project, we are investigating to find out how some of the elements of the TV show interact with each other. The analysis is conducted using a Jupyter Notebook, which can be found in the Notebook directory. This readme provides instructions on setting up the environment, downloading the required datasets, and running the notebook.
@@ -42,7 +41,7 @@ Open the Notebook: In your web browser, access the Jupyter Notebook interface an
 
 Run the Notebook: Within the notebook, execute the cells sequentially to perform the analysis and visualize the results.
 
-Data Sets
+#Data Sets
 This project relies on the following datasets:
 
 super_bowls Dataset:
@@ -59,7 +58,7 @@ Use Case: This dataset is useful for analyzing trends in halftime show performan
 
 Download the datasets and place them in the data directory.
 
-Notebook
+#Notebook
 The Jupyter Notebook, TV_notebook.ipynb, is where the main analysis is performed. This notebook contains the step-by-step code and explanations for the analysis.
 
 License
