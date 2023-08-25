@@ -60,7 +60,7 @@ The Jupyter Notebook, TV_notebook.ipynb, is where the main analysis is performed
 ## License
 This project is licensed under the DataCamp.  
 
-Feel free to reach out to us at dipkrishna@gmail.com if you have any questions or feedback! We hope you find this project informative and insightful.  
+Feel free to reach out to me at dipkrishna@gmail.com if you have any questions or feedback! We hope you find this project informative and insightful.  
 
 Happy analyzing!  
 Deepthi Binu
